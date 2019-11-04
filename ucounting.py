@@ -18,13 +18,13 @@ def adding():
     try:
         int(b)
     except ValueError:
-        print('Ошибка: введенные данные не относятся к числовому типу')
+        print('Ошибка: ЧИСЛО!! ВВАДИ ЧИСЛОООООО!!!!1!')
         exit()
     c = input('Введи количество (в граммах или миллилитрах)\n> ')
     try:
         int(c)
     except ValueError:
-        print('Ошибка: введенные данные не относятся к числовому типу')
+        print('Ошибка: ЧИСЛО!! ВВАДИ ЧИСЛОООООО!!!!1!')
         exit()
     list_of_titles.append(a)
     list_of_prices.append(int(b))
