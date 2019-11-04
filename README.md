@@ -6,8 +6,8 @@
 
 # Обратная связь
 Если есть какие-либо вопросы или пожелания, а также предложения, у меня есть:
-- Skype - live:coderusual00
-- Telegram: @UsualCoder
+- Telegram: @Carrie_Krueger
 - Mailbox: support@usu4lc0d3r.su
 
-Web: http://usu4lc0d3r.su (скоро будет обновление, дизайн фигня, да)
+Web: http://usu4lc0d3r.su (скоро будет обновление, дизайн фигня, да) ((кончились бабки на хостинге))
+
